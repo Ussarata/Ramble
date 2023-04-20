@@ -1,12 +1,4 @@
 # Ramble 
-<hr/>
-
-## **Group Name**: We Tried, Ok?
-
-## **Devs**: Manan Shahi, Ussama Mustafa
-
-## **Client**: Blue Otter
-<hr/>
 
 ### App Description
 
