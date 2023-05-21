@@ -2,21 +2,11 @@
 
 ### App Description
 
-Ramble is a social media app that is similar to Twitter but with a focus on long form posts. The app is meant to be viewed on a computer with a 16:9 aspect ratio monitor in full screen. The app unfortunately does not scale based on the resolution and aspect ratio of the device.
+Ramble is a social media app that is similar to Twitter and Tumblr with a focus on long form posts. The app is meant to be viewed on a computer with a 16:9 aspect ratio monitor in full screen.
 
 ### Motivation
 
 The plan is to leverage the good aspects of social media and packaging that into an appealing UI which respects the concepts learnt in class.
-
-### Developer Bio
-
-#### Manan Shahi
-
-Senior International student from Nepal. Computer science major.
-
-#### Ussama Mustafa
-
-Senior International student. CS and Math major.
 
 ### Installation / Setup
 
